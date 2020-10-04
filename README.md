@@ -5,7 +5,7 @@
 <!--
 ### Welcome to [Ashwini Chavan's](https://about.me/akshatsoni64) Github Profile👋
 -->
-- Hey, I m Final Year B. Tech. Student from **SAL Institute of Technology Engineering & Research**. Love to work with [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Flutter**](https://www.flutter.dev/), etc.
+- Hey, I m Final Year B. E. Student from **SAL Institute of Technology Engineering & Research**. Love to work with [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Flutter**](https://www.flutter.dev/), etc.
 - Image Processing & Machine Learning Enthusiast
 
 *******
